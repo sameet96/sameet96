@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sameet96
+- 👋 Hi, I’m Sameet
 - 👀 I’m interested in Machine learning and neural networks
 - 🌱 I’m currently learning Computer vision
 - 📫 How to reach me sameet.sonawane7@gmail.com
